@@ -5,6 +5,7 @@
     import pandas
     from ggplot import *
     import numpy as np
+    import matplotlib.pyplot as plt
     
     
     # only need this when working in udacity IDE
